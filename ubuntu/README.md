@@ -4,7 +4,7 @@ Using Ubuntu
 Add it to your systems keyboard and restart your computer.
 
 ```
-cp real-prog-dvorak >> ~/.config/xkb/real-prog-dovark
+cp math-dvorak >> ~/.config/xkb/math-dvorak
 ```
 
 Then you have to update the `sudo vim /usr/share/X11/xkb/rules/evdev.xml` with the following, add it near the other English keyboards
@@ -12,9 +12,9 @@ Then you have to update the `sudo vim /usr/share/X11/xkb/rules/evdev.xml` with t
 ```
 <variant>
     <configItem>
-        <name>real-prog-dvorak</name>
-        <description>English (Real Programmers Dvorak)</description>
-        <vendor>MichaelPaulson</vendor>
+        <name>math-dvorak</name>
+        <description>English (Math Dvorak)</description>
+        <vendor>Steven</vendor>
     </configItem>
 </variant>
 ```
