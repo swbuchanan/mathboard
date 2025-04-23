@@ -1,5 +1,5 @@
 ## Motivation
-This is a modification of a The Real Programmer's Dvorak optimized slightly for my own personal uses, which involve writing both for programming and for mathemattics.
+This is a modification of a The Real Programmer's Dvorak optimized slightly for my own personal uses, which involve writing both for programming and for mathematics.
 
 ## Why Dvorak?
 Dvorak comes on evey major OS.
