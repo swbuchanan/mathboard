@@ -1,7 +1,7 @@
 Using Ubuntu
 -----------
 
-Add it to you systems keyboard and restart your computer.
+Add it to your systems keyboard and restart your computer.
 
 ```
 cp real-prog-dvorak >> ~/.config/xkb/real-prog-dovark
