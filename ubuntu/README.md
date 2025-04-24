@@ -1,3 +1,5 @@
+# todo: I don't think this stuff is right
+
 Using Ubuntu
 -----------
 
