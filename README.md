@@ -5,13 +5,10 @@ This is a modification of a The Real Programmer's Dvorak optimized slightly for 
 Dvorak comes on evey major OS.
 
 ## Why change programmers Dvorak?
-The major problems around PD is that it has a poorly thought out symbol layout.
+The major probles around PD is that it has a poorly thought out symbol layout.
 
 ## Why change the real programmer's Dvorak?
-The major problems around RPD is that it wasn't designed for me personally.
-
-* (, ), {, }, [, ]
-** The opening and closing symbols are oddly placed.  It makes so much more sense that finger used to open is the same finger on the closing hand.
+The major problem around RPD is that it wasn't designed for me personally.
 
 I used [keyboard-layout-editor](https://keyboard-layout-editor.com/) to set up the layout and generate the images below.
 
