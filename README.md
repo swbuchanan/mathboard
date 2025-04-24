@@ -2,7 +2,7 @@
 This is a modification of a The Real Programmer's Dvorak optimized slightly for my own personal uses, which involve writing both for programming and for mathematics.
 
 ## Why Dvorak?
-Dvorak comes on evey major OS.
+We all love Dvorak.
 
 ## Why change programmers Dvorak?
 The major probles around PD is that it has a poorly thought out symbol layout.
