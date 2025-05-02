@@ -5,17 +5,17 @@ xkb_symbols "math-dvorak" {
 
     key <TLDE> { [ grave, asciitilde ] };
 
-    key <AE01> { [ less, 1 ] };
-    key <AE02> { [ greater, 2 ] };
-    key <AE03> { [ bracketleft, 3 ] };
-    key <AE04> { [ braceleft, 4 ] };
-    key <AE05> { [ parenleft, 5 ] };
-    key <AE06> { [ dollar, 6 ] };
-    key <AE07> { [ parenright, 7 ] };
-    key <AE08> { [ braceright, 8 ] };
-    key <AE09> { [ bracketright, 9 ] };
-    key <AE10> { [ exclam, 0 ] };
-    key <AE11> { [ numbersign, asterisk ] };
+    key <AE01> { [ 1, less ] };
+    key <AE02> { [ 2, greater] };
+    key <AE03> { [ 3, bracketleft ] };
+    key <AE04> { [ 4, braceleft ] };
+    key <AE05> { [ 5, parenleft ] };
+    key <AE06> { [ 6, dollar ] };
+    key <AE07> { [ 7, parenright ] };
+    key <AE08> { [ 8, braceright ] };
+    key <AE09> { [ 9, bracketright ] };
+    key <AE10> { [ 0, exclam ] };
+    key <AE11> { [ asterisk, numbersign ] };
     key <AE12> { [ percent, at ] };
 
     key <AD01> { [ apostrophe, quotedbl ] };
@@ -41,7 +41,7 @@ xkb_symbols "math-dvorak" {
     key <AC08> { [ t, T ] };
     key <AC09> { [ n, N ] };
     key <AC10> { [ s, S ] };
-    key <AC11> { [ minus, underscore ] };
+    key <AC11> { [ underscore, minus ] };
 
     key <AB01> { [ semicolon, colon ] };
     key <AB02> { [ q, Q ] };

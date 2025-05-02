@@ -16,4 +16,4 @@ I used [keyboard-layout-editor](https://keyboard-layout-editor.com/) to set up t
 There is also a json file in the repository that I downloaded from this site with the layout information.
 
 ## Preview 
-![base layer](./keyboard-layout.png)
+![base layer](./keyboard-layout-v2.png)
