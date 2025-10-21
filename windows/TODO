@@ -1,0 +1,10 @@
+I'm not very good at windows but I think to install the keyboard layout on windows you just need to go into the mdvorak folder and run the installer that's appropriate for your computer.
+I had to restart my computer before it started working properly as well.
+If installing a program where you can't see the source code isn't your thing, you can create your own installer, as mentioned in the final paragraph.
+
+At the moment capslock is not working properly, so if you care about that then TOO BAD.
+
+The installer was generated using Microsoft Keyboard Layout Creator 1.4, which you can download (or the latest version of it at any rate) from Microsoft.
+I haven't done any testing on other keyboards, but if yours is weird then I bet my layout won't work properly.
+If this is the case, the easiest thing to do may be to make your own version.
+Using the MKLC, you can load mathboard.klc file and make your own changes and then create your own installer.
