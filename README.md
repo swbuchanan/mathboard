@@ -5,7 +5,7 @@ This is a modification of The Real Programmer's Dvorak optimized slightly for my
 We all love Dvorak.
 
 ## Why change programmers Dvorak?
-The major probles around PD is that it has a poorly thought out symbol layout.
+The major problem around PD is that it has a poorly thought out symbol layout.
 
 ## Why change the real programmer's Dvorak?
 The major problem around RPD is that it wasn't designed for me personally.
