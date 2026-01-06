@@ -1,23 +1,16 @@
-# todo: I don't think this stuff is right
-
-Using Ubuntu
+Installation for Ubuntu
 -----------
 
-Add it to your systems keyboard and restart your computer.
+To install the layout on Ubuntu, one should paste the contents of `math-dvorak` into `/usr/share/X11/xkb/symbols/us`
+Copy or move `us` to `/usr/share/X11/xkb/symbols/us`, and copy or move `evdev.xml` to `/usr/share/X11/xkb/rules/evdev.xml`.
 
-```
-cp math-dvorak >> ~/.config/xkb/math-dvorak
-```
-
-I think instead what one should do is paste the contents of math-dvorak into `/usr/share/X11/xkb/symbols/us`
-
-Then you have to update the `sudo vim /usr/share/X11/xkb/rules/evdev.xml` with the following, add it near the other English keyboards
+Alternatively, you could paste the contents of `math-dvorak` into `/usr/share/X11/xkb/symbols/us` (pretty much anywhere is fine I think), and add the following to `sudo vim /usr/share/X11/xkb/rules/evdev.xml`, near the other English keyboards:
 
 ```
 <variant>
     <configItem>
         <name>math-dvorak</name>
-        <description>English (Math Dvorak)</description>
+        <description>English (math Dvorak)</description>
         <vendor>Steven</vendor>
     </configItem>
 </variant>
